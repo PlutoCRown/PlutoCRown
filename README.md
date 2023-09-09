@@ -1,16 +1,14 @@
-### Hi there 👋
+![](signature.svg)
 
-<!--
-**PlutoCRown/PlutoCRown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Pluto
+- 🌐 I'm a web developer
+- 🖥️Committed to becoming a full-stack engineer
 
-Here are some ideas to get you started:
+## 🪄 I use
+- 🔯React at best, a little bit of Vue
+- 🐍Not bad for Python
+- 🍵Some Java but being converted to Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫How to reach me
+> I like to contribute to open source projects, so feel free to [invite me](mailto:minecrafttmi@foxmail.com) if you need to!
