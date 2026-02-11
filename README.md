@@ -1,13 +1,14 @@
 ![](signature.svg)
 
-# 👋 Hi, I’m Pluto
+# 👋 Hi, I’m Pluto 
 - 🌐 I'm a web developer
-- 🖥️Committed to becoming a full-stack engineer
+- 🖥️ Committed to becoming a full-stack engineer
+- 💡 Vibe Coding Explorer
 
 ## 🪄 I use
-- 🔯React at best, a little bit of Vue
-- 🐍Not bad for Python
-- 🍵Some Java but being converted to Rust
+- 🔷 TypeScript-first, 🐍 Python.
+- 🌐 Web stack: ⚛️ React, ▼ Next.js, 🐻 Zustand.
+- 🚀 Aggressive toolchain speed-up advocate: Bun, uv, Codex.
 
 
 ## 📫How to reach me
